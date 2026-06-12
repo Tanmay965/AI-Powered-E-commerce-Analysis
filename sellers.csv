@@ -1,0 +1,516 @@
+seller_id,seller_zip_code,seller_city,seller_state
+SELL0001,784939.0,KORBA,Nagaland
+SELL0002,276425.0,bhopal,Goa
+SELL0003,918444.0, Nashik ,Mizoram
+SELL0004,376335.0,jamnagar,Uttar Pradesh
+SELL0005,247862.0,Bhilai,Gujarat
+SELL0006,304005.0, Sasaram ,Meghalaya
+SELL0007,241787.0,Gwalior,Rajasthan
+SELL0008,527846.0,Rajahmundry,Arunachal Pradesh
+SELL0009,662232.0,,Goa
+SELL0010,690539.0,Varanasi,Karnataka
+SELL0011,736798.0,,Goa
+SELL0012,907720.0,ambattur,Nagaland
+SELL0013,944774.0,Ghaziabad,Rajasthan
+SELL0014,224266.0,Ongole,Karnataka
+SELL0015,742209.0,Rourkela,Sikkim
+SELL0016,273546.0,Berhampur,Jharkhand
+SELL0017,969697.0,Kadapa,Himachal Pradesh
+SELL0018,160517.0,Raipur,Tripura
+SELL0019,914155.0,HOSPET,Tamil Nadu
+SELL0020,889378.0,Tadipatri,Manipur
+SELL0021,781763.0,Bidhannagar,Odisha
+SELL0022,941547.0,Suryapet,Manipur
+SELL0023,724137.0,Udaipur,Uttar Pradesh
+SELL0024,710096.0,Chandigarh,Maharashtra
+SELL0025,264382.0,Visakhapatnam,Chhattisgarh
+SELL0026,201283.0,Korba,Karnataka
+SELL0027,675856.0, Dewas ,Kerala
+SELL0028,539740.0,Nanded,Bihar
+SELL0029,879672.0,bulandshahr,Madhya Pradesh
+SELL0030,155219.0,Jammu,Meghalaya
+SELL0031,926635.0,ONGOLE,Assam
+SELL0032,251772.0,haridwar,Haryana
+SELL0033,606236.0,Junagadh,Chhattisgarh
+SELL0034,175867.0,Jehanabad,Andhra Pradesh
+SELL0035,933251.0,Mahbubnagar,Telangana
+SELL0036,594180.0,agra,Himachal Pradesh
+SELL0037,263239.0,Bharatpur,Andhra Pradesh
+SELL0038,297985.0,tezpur,Chhattisgarh
+SELL0039,475824.0,Danapur,Gujarat
+SELL0040,760238.0, Nanded ,Madhya Pradesh
+SELL0041,286463.0,Guwahati,Kerala
+SELL0042,503279.0,Dehradun,Tripura
+SELL0043,752511.0,Ramgarh,Andhra Pradesh
+SELL0044,626399.0,BATHINDA,Assam
+SELL0045,162994.0,Tinsukia,Bihar
+SELL0046,608168.0,Kharagpur,Uttar Pradesh
+SELL0047,715711.0,Raipur,Nagaland
+SELL0048,274332.0,Nagercoil,Madhya Pradesh
+SELL0049,259160.0,Sri Ganganagar,Manipur
+SELL0050,709395.0,Sikar,Sikkim
+SELL0051,480265.0,,Gujarat
+SELL0052,,Ujjain,Andhra Pradesh
+SELL0053,165758.0,Vadodara,Bihar
+SELL0054,824003.0,Srikakulam,Madhya Pradesh
+SELL0055,304980.0, Muzaffarpur ,Haryana
+SELL0056,391271.0,Bettiah,Manipur
+SELL0057,674646.0,Jorhat,Maharashtra
+SELL0058,664615.0,Hazaribagh,Arunachal Pradesh
+SELL0059,353205.0,Srinagar,Madhya Pradesh
+SELL0060,934977.0, Morena ,Karnataka
+SELL0061,684746.0,Phusro,Kerala
+SELL0062,440245.0,AGRA,Uttarakhand
+SELL0063,873279.0,Buxar,Telangana
+SELL0064,445377.0,Bettiah,Punjab
+SELL0065,857118.0,Srinagar,Maharashtra
+SELL0066,156318.0,Howrah,Manipur
+SELL0067,552390.0,UDAIPUR,Rajasthan
+SELL0068,248065.0,Thoothukudi,Rajasthan
+SELL0069,196853.0,Madanapalle,Telangana
+SELL0070,766971.0,Nandyal,Madhya Pradesh
+SELL0071,779255.0,Arrah,Kerala
+SELL0072,641529.0,Shimla,Odisha
+SELL0073,732544.0,Munger,Tamil Nadu
+SELL0074,429830.0, Hyderabad ,Karnataka
+SELL0075,726260.0,Pallavaram,Jharkhand
+SELL0076,698269.0,kalyan-dombivli,Telangana
+SELL0077,172676.0,Tadepalligudem,Andhra Pradesh
+SELL0078,700293.0, Hospet ,Chhattisgarh
+SELL0079,740769.0,Sirsa,Bihar
+SELL0080,919315.0,GULBARGA,Telangana
+SELL0081,676152.0,Shimla,Manipur
+SELL0082,115140.0,Hospet,Jharkhand
+SELL0083,198853.0,Tirunelveli,Gujarat
+SELL0084,-100.0,Kolhapur,Bihar
+SELL0085,348183.0,Chapra,Punjab
+SELL0086,427599.0, Gurgaon ,Manipur
+SELL0087,585022.0,PARBHANI,Uttar Pradesh
+SELL0088,868782.0,KARAWAL NAGAR,Punjab
+SELL0089,269396.0,,Andhra Pradesh
+SELL0090,223289.0,Alappuzha,Karnataka
+SELL0091,,DEHRI,Mizoram
+SELL0092,301611.0,Motihari,Tripura
+SELL0093,,Dhanbad,Mizoram
+SELL0094,460818.0,Karaikudi,Goa
+SELL0095,562815.0,Naihati,Haryana
+SELL0096,716233.0,Tiruppur,Meghalaya
+SELL0097,593563.0,Jodhpur,Chhattisgarh
+SELL0098,638639.0,Dhule,Nagaland
+SELL0099,593126.0,Belgaum,Tamil Nadu
+SELL0100,889769.0,Ozhukarai,Punjab
+SELL0101,954246.0,Nizamabad,Goa
+SELL0102,257294.0,Rohtak,Kerala
+SELL0103,216137.0,Madanapalle,Tamil Nadu
+SELL0104,559245.0,Hazaribagh,Bihar
+SELL0105,622039.0,Bhopal,Rajasthan
+SELL0106,,,Chhattisgarh
+SELL0107,9999999.0,Chinsurah,Telangana
+SELL0108,159059.0,Raichur,Nagaland
+SELL0109,303085.0,,Manipur
+SELL0110,469771.0,Tadepalligudem,West Bengal
+SELL0111,876934.0,Siliguri,West Bengal
+SELL0112,885758.0,Siliguri,Assam
+SELL0113,9999999.0,Satna,Kerala
+SELL0114,254352.0,Jammu,Sikkim
+SELL0115,228173.0, Baranagar ,Punjab
+SELL0116,294453.0,siwan,West Bengal
+SELL0117,736732.0,Narasaraopet,Punjab
+SELL0118,442781.0,Pimpri-Chinchwad,Assam
+SELL0119,627534.0,nizamabad,Madhya Pradesh
+SELL0120,681008.0,New Delhi,Tripura
+SELL0121,982809.0,Bhilwara,Haryana
+SELL0122,,Patiala,Rajasthan
+SELL0123,830527.0,,Andhra Pradesh
+SELL0124,255841.0,REWA,Haryana
+SELL0125,442678.0,Kurnool,Tamil Nadu
+SELL0126,525994.0,gudivada,Madhya Pradesh
+SELL0127,374448.0,maheshtala,Nagaland
+SELL0128,725252.0,Hapur,Maharashtra
+SELL0129,734382.0,Amaravati,Andhra Pradesh
+SELL0130,820554.0,Vasai-Virar,Himachal Pradesh
+SELL0131,440490.0,Aurangabad,Haryana
+SELL0132,858846.0,Chandrapur,Meghalaya
+SELL0133,687460.0,Salem,Maharashtra
+SELL0134,643828.0,Kavali,Gujarat
+SELL0135,595807.0,Kottayam,Tamil Nadu
+SELL0136,891607.0,,Punjab
+SELL0137,343064.0,Sangli-Miraj & Kupwad,Gujarat
+SELL0138,722335.0,Alappuzha,Goa
+SELL0139,956082.0,Arrah,Assam
+SELL0140,461730.0,Medininagar,West Bengal
+SELL0141,234940.0,Madhyamgram,Chhattisgarh
+SELL0142,142946.0,Etawah,Rajasthan
+SELL0143,514883.0,Raebareli,Rajasthan
+SELL0144,264444.0,Karimnagar,Odisha
+SELL0145,160671.0,ambarnath,Nagaland
+SELL0146,893938.0,Ramagundam,Madhya Pradesh
+SELL0147,385413.0,Kishanganj,Manipur
+SELL0148,410384.0,Sambhal,Madhya Pradesh
+SELL0149,705988.0, Eluru ,Punjab
+SELL0150,0.0,Sangli-Miraj & Kupwad,Telangana
+SELL0151,470201.0,Bahraich,Madhya Pradesh
+SELL0152,348146.0,Mira-Bhayandar,West Bengal
+SELL0153,291521.0,Shahjahanpur,Telangana
+SELL0154,509922.0,Shahjahanpur,Tripura
+SELL0155,523014.0,Rajahmundry,Kerala
+SELL0156,835673.0,Barasat,Mizoram
+SELL0157,777206.0,Mumbai,Maharashtra
+SELL0158,,Vadodara,Kerala
+SELL0159,736571.0,Akola,Assam
+SELL0160,356912.0,Bharatpur,Madhya Pradesh
+SELL0161,987313.0, Sambalpur ,West Bengal
+SELL0162,718563.0,Ujjain,Maharashtra
+SELL0163,251160.0,DAVANAGERE,Meghalaya
+SELL0164,609198.0,Cuttack,Bihar
+SELL0165,831202.0,Bhiwandi,Nagaland
+SELL0166,901450.0,Raiganj,Chhattisgarh
+SELL0167,-100.0,Jamshedpur,Nagaland
+SELL0168,276015.0,Bidhannagar,Jharkhand
+SELL0169,350430.0,Latur,Rajasthan
+SELL0170,489315.0,kumbakonam,Tamil Nadu
+SELL0171,575397.0,Bangalore,Arunachal Pradesh
+SELL0172,784077.0,Gangtok,Maharashtra
+SELL0173,453485.0,Mau,Meghalaya
+SELL0174,997700.0,Gudivada,Maharashtra
+SELL0175,379544.0,karnal,Karnataka
+SELL0176,407774.0,Jamnagar,Tripura
+SELL0177,666250.0,Sikar,Telangana
+SELL0178,176104.0,Mango,Mizoram
+SELL0179,953926.0,Srinagar,Tamil Nadu
+SELL0180,214458.0,Satna,Odisha
+SELL0181,930184.0, Jalandhar ,Uttar Pradesh
+SELL0182,406073.0,Indore,Odisha
+SELL0183,379136.0,NIZAMABAD,Mizoram
+SELL0184,184388.0,Parbhani,Haryana
+SELL0185,169303.0,Ichalkaranji,Mizoram
+SELL0186,724436.0,jodhpur,Tamil Nadu
+SELL0187,968813.0,Bareilly,Madhya Pradesh
+SELL0188,740238.0,Nangloi Jat,Haryana
+SELL0189,100851.0,Aligarh,Himachal Pradesh
+SELL0190,176788.0,Miryalaguda,Goa
+SELL0191,304272.0,Gwalior,Andhra Pradesh
+SELL0192,586912.0,Morbi,Gujarat
+SELL0193,126335.0,Bhopal,Nagaland
+SELL0194,756398.0,Hosur,Manipur
+SELL0195,782055.0,Chinsurah,Rajasthan
+SELL0196,432652.0,Bardhaman,Manipur
+SELL0197,354301.0,Anand,Chhattisgarh
+SELL0198,413287.0,PANCHKULA,Rajasthan
+SELL0199,318030.0,,Arunachal Pradesh
+SELL0200,337241.0,kishanganj,Uttarakhand
+SELL0201,579178.0,Loni,West Bengal
+SELL0202,983553.0,Siliguri,Goa
+SELL0203,217969.0,Mehsana,Gujarat
+SELL0204,,erode,Assam
+SELL0205,756461.0, Bhopal ,Manipur
+SELL0206,202790.0,NELLORE,Maharashtra
+SELL0207,747489.0,Chennai,Maharashtra
+SELL0208,155892.0,Pallavaram,Maharashtra
+SELL0209,100374.0,Thiruvananthapuram,Odisha
+SELL0210,547433.0,Kolkata,Meghalaya
+SELL0211,366716.0,Bhalswa Jahangir Pur,Kerala
+SELL0212,853739.0,Ulhasnagar,Uttarakhand
+SELL0213,833765.0,,Rajasthan
+SELL0214,954803.0,Amravati,Maharashtra
+SELL0215,898252.0,Rourkela,Kerala
+SELL0216,,Pondicherry,Andhra Pradesh
+SELL0217,790676.0,Ulhasnagar,Bihar
+SELL0218,522187.0,Erode,Andhra Pradesh
+SELL0219,205248.0,Hazaribagh,Bihar
+SELL0220,205311.0,Ahmednagar,Maharashtra
+SELL0221,336708.0,Raiganj,Manipur
+SELL0222,559381.0,Siliguri,Kerala
+SELL0223,367200.0,mehsana,Madhya Pradesh
+SELL0224,508195.0,Bhalswa Jahangir Pur,Nagaland
+SELL0225,858753.0,Pali,Tamil Nadu
+SELL0226,540280.0,Maheshtala,Punjab
+SELL0227,748071.0,Berhampur,Kerala
+SELL0228,735348.0,Rourkela,Nagaland
+SELL0229,327865.0,BHIMAVARAM,Maharashtra
+SELL0230,902055.0, Coimbatore ,Bihar
+SELL0231,959642.0,Ozhukarai,Uttarakhand
+SELL0232,686799.0,Chandigarh,Gujarat
+SELL0233,163852.0,Pallavaram,Manipur
+SELL0234,737948.0,Kamarhati,Assam
+SELL0235,443601.0,Chittoor,Kerala
+SELL0236,145289.0,Panvel,Rajasthan
+SELL0237,544721.0,warangal,Meghalaya
+SELL0238,360089.0,Raiganj,Goa
+SELL0239,339133.0,secunderabad,Nagaland
+SELL0240,986560.0,Orai,Punjab
+SELL0241,413084.0,Kharagpur,Tripura
+SELL0242,705207.0,Tenali,Haryana
+SELL0243,801412.0, Bellary ,Goa
+SELL0244,625352.0,Kochi,West Bengal
+SELL0245,,Malegaon,Himachal Pradesh
+SELL0246,213112.0,Rewa,Nagaland
+SELL0247,543058.0,Avadi,Punjab
+SELL0248,924040.0,Kolhapur,West Bengal
+SELL0249,590524.0,ongole,Haryana
+SELL0250,612148.0,Kolhapur,Telangana
+SELL0251,896009.0,Bhagalpur,Jharkhand
+SELL0252,169819.0,Amaravati,Bihar
+SELL0253,898319.0,AMBALA,Nagaland
+SELL0254,795693.0,Kozhikode,Rajasthan
+SELL0255,409258.0,Jhansi,Bihar
+SELL0256,545889.0,Srinagar,Haryana
+SELL0257,415843.0,Pallavaram,Nagaland
+SELL0258,839994.0,Madanapalle,Haryana
+SELL0259,538675.0,warangal,Rajasthan
+SELL0260,294733.0,Ghaziabad,Sikkim
+SELL0261,353006.0,Hyderabad,Tamil Nadu
+SELL0262,905079.0,Tiruvottiyur,Meghalaya
+SELL0263,595205.0,Mehsana,Uttarakhand
+SELL0264,489404.0,Hubli–Dharwad,Gujarat
+SELL0265,717088.0,Erode,Andhra Pradesh
+SELL0266,307422.0,Morena,Himachal Pradesh
+SELL0267,265919.0,Karimnagar,Bihar
+SELL0268,202799.0,Bidar,Rajasthan
+SELL0269,843686.0,SERAMPORE,Telangana
+SELL0270,707640.0,Vijayawada,Haryana
+SELL0271,128259.0,Mango,Kerala
+SELL0272,977192.0,Vijayanagaram,Tripura
+SELL0273,669897.0,Shahjahanpur,West Bengal
+SELL0274,833566.0,Siwan,Assam
+SELL0275,498803.0,Junagadh,Odisha
+SELL0276,852763.0,Malda,Odisha
+SELL0277,630291.0,Rajahmundry,Tripura
+SELL0278,898219.0,THANE,Punjab
+SELL0279,561025.0,ambattur,Meghalaya
+SELL0280,628297.0, Gopalpur ,Karnataka
+SELL0281,711340.0,Katni,Gujarat
+SELL0282,200572.0,Alwar,Odisha
+SELL0283,172690.0,Danapur,Andhra Pradesh
+SELL0284,129167.0,Ujjain,Haryana
+SELL0285,165023.0,KARNAL,Gujarat
+SELL0286,255053.0,Kharagpur,Nagaland
+SELL0287,901484.0,,Rajasthan
+SELL0288,569468.0,anantapur,Himachal Pradesh
+SELL0289,313000.0,Sultan Pur Majra,Bihar
+SELL0290,252290.0,Ambattur,Nagaland
+SELL0291,326393.0, Chennai ,Meghalaya
+SELL0292,720056.0,Rajahmundry,Madhya Pradesh
+SELL0293,803758.0,Ghaziabad,Maharashtra
+SELL0294,187131.0,Jammu,Nagaland
+SELL0295,988902.0,Kota,Meghalaya
+SELL0296,785163.0,Pune,Manipur
+SELL0297,562484.0,Amravati,Rajasthan
+SELL0298,186488.0,Muzaffarnagar,Madhya Pradesh
+SELL0299,201524.0,Serampore,Chhattisgarh
+SELL0300,841556.0,New Delhi,Manipur
+SELL0301,986603.0,Bokaro,Maharashtra
+SELL0302,768040.0,Nagercoil,Mizoram
+SELL0303,335517.0,Ghaziabad,Rajasthan
+SELL0304,732307.0,Karimnagar,Telangana
+SELL0305,376609.0,Kharagpur,Bihar
+SELL0306,458846.0,Buxar,Tripura
+SELL0307,422146.0,,Haryana
+SELL0308,228552.0,Alwar,Andhra Pradesh
+SELL0309,949440.0,Gulbarga,Himachal Pradesh
+SELL0310,725034.0,Uluberia,Uttar Pradesh
+SELL0311,427369.0,Kharagpur,Andhra Pradesh
+SELL0312,690056.0,Mirzapur,Tripura
+SELL0313,295400.0,Berhampur,Tamil Nadu
+SELL0314,603052.0,Bardhaman,Goa
+SELL0315,460006.0,Sangli-Miraj & Kupwad,Sikkim
+SELL0316,112199.0,Adoni,Karnataka
+SELL0317,558387.0,Avadi,Goa
+SELL0318,822208.0,RAJKOT,Arunachal Pradesh
+SELL0319,582347.0,Mirzapur,Andhra Pradesh
+SELL0320,689439.0,Bhilai,Haryana
+SELL0321,620607.0, Bhilwara ,Tripura
+SELL0322,702069.0, Bidar ,Nagaland
+SELL0323,478638.0,Tumkur,Andhra Pradesh
+SELL0324,665333.0,Nagercoil,Kerala
+SELL0325,957282.0,secunderabad,Andhra Pradesh
+SELL0326,960276.0,Bidar,Mizoram
+SELL0327,460729.0,Maheshtala,Mizoram
+SELL0328,,Meerut,Chhattisgarh
+SELL0329,,Proddatur,Telangana
+SELL0330,764303.0,noida,Bihar
+SELL0331,574438.0,Bhubaneswar,Tripura
+SELL0332,246189.0,Kavali,Andhra Pradesh
+SELL0333,657622.0, North Dumdum ,Manipur
+SELL0334,138736.0,SURYAPET,Chhattisgarh
+SELL0335,102055.0,Mumbai,Haryana
+SELL0336,659156.0,ludhiana,Meghalaya
+SELL0337,973466.0,Aizawl,Kerala
+SELL0338,229003.0,BHUSAWAL,Tamil Nadu
+SELL0339,914251.0,Sambhal,Karnataka
+SELL0340,886700.0,Adoni,Mizoram
+SELL0341,245731.0,Dharmavaram,Karnataka
+SELL0342,529587.0,Bhiwandi,Mizoram
+SELL0343,665334.0,Tiruvottiyur,Uttar Pradesh
+SELL0344,492494.0,Bhubaneswar,Meghalaya
+SELL0345,978170.0,Sirsa,Jharkhand
+SELL0346,231786.0,Serampore,Andhra Pradesh
+SELL0347,405244.0,Amravati,Telangana
+SELL0348,291339.0,Yamunanagar,Mizoram
+SELL0349,228808.0,Bhiwani,West Bengal
+SELL0350,542526.0,Malegaon,Haryana
+SELL0351,831323.0,Kirari Suleman Nagar,Gujarat
+SELL0352,164067.0,BATHINDA,Telangana
+SELL0353,333027.0, Arrah ,Uttar Pradesh
+SELL0354,,Kamarhati,Mizoram
+SELL0355,849014.0,latur,Goa
+SELL0356,701322.0,Anantapur,Himachal Pradesh
+SELL0357,0.0,KADAPA,Sikkim
+SELL0358,394328.0, Udupi ,Madhya Pradesh
+SELL0359,671920.0, Bhiwani ,Uttarakhand
+SELL0360,475939.0,Bongaigaon,Goa
+SELL0361,285853.0,Bhimavaram,Manipur
+SELL0362,357762.0,Panvel,Madhya Pradesh
+SELL0363,277812.0,Tumkur,Haryana
+SELL0364,416552.0,Bhatpara,Kerala
+SELL0365,770713.0,Mirzapur,Kerala
+SELL0366,912905.0,NAGAON,Mizoram
+SELL0367,502786.0, Uluberia ,Tripura
+SELL0368,597827.0, Guntur ,Jharkhand
+SELL0369,345713.0, Fatehpur ,Bihar
+SELL0370,264351.0,Kollam,Kerala
+SELL0371,318643.0,Bettiah,Odisha
+SELL0372,651511.0,Kota,West Bengal
+SELL0373,597859.0,Bhind,Telangana
+SELL0374,0.0,BHUBANESWAR,Punjab
+SELL0375,,Sambhal,Telangana
+SELL0376,667336.0,Kadapa,Nagaland
+SELL0377,369623.0,Jehanabad,Gujarat
+SELL0378,116188.0,Giridih,Himachal Pradesh
+SELL0379,129605.0,Bhagalpur,Sikkim
+SELL0380,717840.0,Raiganj,Himachal Pradesh
+SELL0381,9999999.0,Ahmedabad,Tripura
+SELL0382,835617.0,Delhi,Himachal Pradesh
+SELL0383,601096.0, Bongaigaon ,Sikkim
+SELL0384,700801.0,Bhusawal,Chhattisgarh
+SELL0385,286138.0,Rajkot,Mizoram
+SELL0386,692697.0,Arrah,Madhya Pradesh
+SELL0387,235939.0, Gaya ,Manipur
+SELL0388,149327.0,Kottayam,Bihar
+SELL0389,785941.0,Shahjahanpur,West Bengal
+SELL0390,901002.0, Rohtak ,Meghalaya
+SELL0391,765261.0,Bhilai,Meghalaya
+SELL0392,939346.0,Bareilly,Nagaland
+SELL0393,434590.0,Allahabad,Uttarakhand
+SELL0394,458966.0,Tenali,Assam
+SELL0395,728156.0,Dehradun,Tripura
+SELL0396,294551.0,Bhimavaram,Andhra Pradesh
+SELL0397,345196.0,Panvel,Tamil Nadu
+SELL0398,694404.0,Rajkot,Jharkhand
+SELL0399,793353.0,Chandrapur,Telangana
+SELL0400,502371.0,Ahmednagar,Chhattisgarh
+SELL0401,869428.0,Purnia,Odisha
+SELL0402,688227.0,Anantapuram,Himachal Pradesh
+SELL0403,377564.0,Jehanabad,Bihar
+SELL0404,411698.0,Sasaram,Bihar
+SELL0405,143278.0,Malegaon,Mizoram
+SELL0406,594992.0,Ramagundam,Maharashtra
+SELL0407,,pune,Himachal Pradesh
+SELL0408,115672.0,IMPHAL,Maharashtra
+SELL0409,888114.0,Mathura,Chhattisgarh
+SELL0410,907045.0,Tadipatri,Odisha
+SELL0411,505999.0,Bikaner,Bihar
+SELL0412,205865.0,Phusro,Nagaland
+SELL0413,414010.0,hindupur,Maharashtra
+SELL0414,330597.0,Gudivada,Rajasthan
+SELL0415,595164.0,amravati,Mizoram
+SELL0416,733111.0,Raurkela Industrial Township,Gujarat
+SELL0417,548022.0,,Rajasthan
+SELL0418,707006.0,Nanded,Madhya Pradesh
+SELL0419,851860.0,Dehradun,Kerala
+SELL0420,388528.0,Lucknow,Andhra Pradesh
+SELL0421,765208.0,Bathinda,Nagaland
+SELL0422,283381.0,South Dumdum,Maharashtra
+SELL0423,369947.0,Nellore,Karnataka
+SELL0424,304492.0,Rajahmundry,Sikkim
+SELL0425,,ROHTAK,Andhra Pradesh
+SELL0426,581091.0,Tumkur,Kerala
+SELL0427,762085.0,Ahmedabad,Andhra Pradesh
+SELL0428,475668.0,,Arunachal Pradesh
+SELL0429,519487.0,DIBRUGARH,Telangana
+SELL0430,287632.0,Meerut,Bihar
+SELL0431,932828.0,Jalandhar,Gujarat
+SELL0432,771775.0,Guna,Goa
+SELL0433,349560.0,Arrah,Rajasthan
+SELL0434,105272.0,Guna,Mizoram
+SELL0435,264240.0,Pondicherry,Tamil Nadu
+SELL0436,439693.0,Tiruvottiyur,Meghalaya
+SELL0437,520670.0,Firozabad,Punjab
+SELL0438,273535.0,Gaya,Jharkhand
+SELL0439,159623.0,Yamunanagar,Madhya Pradesh
+SELL0440,,Madurai,Assam
+SELL0441,558538.0,Hubli–Dharwad,Chhattisgarh
+SELL0442,815174.0,Sikar,Maharashtra
+SELL0443,609456.0,AGRA,Andhra Pradesh
+SELL0444,670797.0,Sultan Pur Majra,Haryana
+SELL0445,9999999.0,Gangtok,Gujarat
+SELL0446,764039.0,Pallavaram,Gujarat
+SELL0447,848788.0,Narasaraopet,Tamil Nadu
+SELL0448,875560.0,Siwan,Maharashtra
+SELL0449,504971.0,Vasai-Virar,Manipur
+SELL0450,133287.0,Orai,Maharashtra
+SELL0451,828626.0,Panchkula,Andhra Pradesh
+SELL0452,444789.0,Kollam,Manipur
+SELL0453,329589.0,Rewa,Mizoram
+SELL0454,266519.0,Bhiwani,Jharkhand
+SELL0455,633140.0,Purnia,Haryana
+SELL0456,447392.0,Kamarhati,Tamil Nadu
+SELL0457,206435.0,Khandwa,Mizoram
+SELL0458,879082.0,Kanpur,Kerala
+SELL0459,628293.0,lucknow,Telangana
+SELL0460,985834.0,faridabad,Bihar
+SELL0461,930291.0,Coimbatore,Telangana
+SELL0462,533953.0,Mirzapur,Gujarat
+SELL0463,665422.0,JALGAON,Tamil Nadu
+SELL0464,867337.0,Jammu,Chhattisgarh
+SELL0465,259984.0,kamarhati,Nagaland
+SELL0466,257889.0,Kota,Tamil Nadu
+SELL0467,793372.0,Nashik,Tripura
+SELL0468,984356.0,kochi,Telangana
+SELL0469,255941.0,Vijayawada,Tripura
+SELL0470,690971.0,sri ganganagar,Mizoram
+SELL0471,460512.0,bulandshahr,Goa
+SELL0472,689336.0,Meerut,Punjab
+SELL0473,921038.0,Hubli–Dharwad,Mizoram
+SELL0474,954924.0,,Jharkhand
+SELL0475,657852.0, Udaipur ,Manipur
+SELL0476,777122.0,AMBATTUR,Tamil Nadu
+SELL0477,563246.0,Nagercoil,Himachal Pradesh
+SELL0478,687136.0,Pondicherry,Punjab
+SELL0479,861425.0, Hyderabad ,Manipur
+SELL0480,852566.0,Baranagar,Chhattisgarh
+SELL0481,485524.0,Agra,West Bengal
+SELL0482,672367.0,pimpri-chinchwad,Chhattisgarh
+SELL0483,967096.0,Srinagar,Chhattisgarh
+SELL0484,146093.0,Srikakulam,Tripura
+SELL0485,630131.0,rourkela,West Bengal
+SELL0486,160287.0,Nashik,Himachal Pradesh
+SELL0487,755282.0, Warangal ,Odisha
+SELL0488,252716.0,PHAGWARA,Telangana
+SELL0489,379863.0,Jodhpur,Haryana
+SELL0490,372095.0,kumbakonam,Punjab
+SELL0491,359369.0,Rajahmundry,Gujarat
+SELL0492,410344.0,Shahjahanpur,Karnataka
+SELL0493,,Kamarhati,Andhra Pradesh
+SELL0494,612817.0,jammu,Chhattisgarh
+SELL0495,856410.0,Asansol,Chhattisgarh
+SELL0496,149440.0,rajpur sonarpur,Goa
+SELL0497,293884.0,mathura,Maharashtra
+SELL0498,192956.0,Bijapur,Assam
+SELL0499,478591.0,Deoghar,Gujarat
+SELL0500,799899.0,Thoothukudi,Tamil Nadu
+SELL0362,357762.0,Panvel,Madhya Pradesh
+SELL0074,429830.0, Hyderabad ,Karnataka
+SELL0375,,Sambhal,Telangana
+SELL0156,835673.0,Barasat,Mizoram
+SELL0105,622039.0,Bhopal,Rajasthan
+SELL0395,728156.0,Dehradun,Tripura
+SELL0378,116188.0,Giridih,Himachal Pradesh
+SELL0125,442678.0,Kurnool,Tamil Nadu
+SELL0069,196853.0,Madanapalle,Telangana
+SELL0451,828626.0,Panchkula,Andhra Pradesh
+SELL0010,690539.0,Varanasi,Karnataka
+SELL0195,782055.0,Chinsurah,Rajasthan
+SELL0407,,pune,Himachal Pradesh
+SELL0085,348183.0,Chapra,Punjab
+SELL0372,651511.0,Kota,West Bengal
